@@ -1,0 +1,8 @@
+resource_group_name,location
+
+
+rg-network-prod, eastus
+rg-compute-prod, westus2
+rg-security-prod, canadacentral
+rg-monitoring-prod, centralus
+rg-sharedservices-prod, eastus2
